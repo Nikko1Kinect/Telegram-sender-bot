@@ -3,9 +3,9 @@ from datetime import datetime, timedelta
 import logging, time, json, telebot
 
 # Настройки
-API_TOKEN = '7514299835:AAHFjqfAmmbX1W39TYubI9_O5ZRq1cfmYog'
-CHAT_ID = '-1002190076710'
-ADMIN_ID = "5057960532"
+API_TOKEN = ''
+CHAT_ID = ''
+ADMIN_ID = ""
 
 # Инициализация бота
 bot = telebot.TeleBot(API_TOKEN)
