@@ -1,0 +1,38 @@
+{
+    "Monday": [
+        {"time": [8, 30], "subject": "Ранкова зустріч", "week_type": "both"},
+        {"time": [9, 50], "subject": "Алгебра", "week_type": "both"},
+        {"time": [11, 45], "subject": "Інформатика", "week_type": "both"},
+        {"time": [12, 35], "subject": "Географія", "week_type": "both"},
+        {"time": [13, 25], "subject": "Біологія", "week_type": "odd"}
+    ],
+    "Tuesday": [
+        {"time": [9, 0], "subject": "Історія України", "week_type": "even"},
+        {"time": [10, 45], "subject": "Англійська мова 1 група", "week_type": "both"},
+        {"time": [10, 45], "subject": "Англійська мова 2 група", "week_type": "both"},
+        {"time": [11, 30], "subject": "Фізкультура", "week_type": "both"},
+        {"time": [12, 35], "subject": "Українська мова", "week_type": "both"},
+        {"time": [13, 25], "subject": "Здоров'я безпека добробут", "week_type": "even"},
+        {"time": [14, 15], "subject": "Українська література", "week_type": "both"}
+    ],
+    "Wednesday": [
+        {"time": [8, 15], "subject": "Ранкова зустріч", "week_type": "both"},
+        {"time": [9, 0], "subject": "Геометрія", "week_type": "both"},
+        {"time": [9, 44], "subject": "Фізика", "week_type": "both"},
+        {"time": [10, 29], "subject": "Хімія", "week_type": "both"},
+        {"time": [11, 24], "subject": "Українська мова", "week_type": "even"},
+        {"time": [13, 19], "subject": "Всесвітня історія", "week_type": "odd"}
+    ],
+    "Thursday": [
+        {"time": [9, 0], "subject": "Технології Дівчата", "week_type": "even"},
+        {"time": [9, 50], "subject": "Зарубіжна література", "week_type": "both"},
+        {"time": [10, 45], "subject": "Алгебра", "week_type": "both"},
+        {"time": [12, 35], "subject": "Англійська мова 1 група", "week_type": "both"},
+        {"time": [12, 35], "subject": "Англійська мова 2 група", "week_type": "both"},
+        {"time": [13, 25], "subject": "Мистецтво", "week_type": "both"},
+        {"time": [14, 15], "subject": "Технології Хлопці", "week_type": "even"}
+    ],
+    "Friday": [
+        {"time": [14, 15], "subject": "Біологія", "week_type": "both"}
+    ]
+}
